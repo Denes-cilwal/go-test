@@ -7,7 +7,7 @@
        get advanced feeback incase something in code code.
 
  - Reduction in Bugs
- - Cleaner and Simple Code-
+ - Cleaner and Simple Code
  - TDD follows a methodology i.e ( RED, GREEN , REFRACTOR)     
      <details>
      <summary>TDD methodology</summary>
