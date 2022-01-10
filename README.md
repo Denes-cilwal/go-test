@@ -18,7 +18,7 @@
     | `GREEN`              | Do changes to code to make the test case pass.             |
     | `REFRACTOR`          | If need some Refractoring do it here.                      |
      </details>
- - Aviods duplication of Code
+ - Avoids duplication of Code
  - Refractoring code improves the code
  - TDD drive the code design and approach
  - Productivity increase
