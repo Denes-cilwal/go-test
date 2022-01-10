@@ -45,6 +45,9 @@ Following steps define how to perform TDD test,
       - Unit Components : functions, struct, methods,
 
 ```unit test sample
+### Unit test sample
+- basic structure of a unit test in Go. The built-in testing package is provided by the Go’s standard library. A unit test is a function that accepts the  argument of type *testing.T and calls the Error (or any other error methods which we will see later) on it. This function must start with Test keyword and the latter name should start with an uppercase letter (for example, TestMultiply and not Testmultiply).
+basic structure of a unit test in Go. The built-in testing package is provided by the Go’s standard library. A unit test is a function that accepts the argument of type *testing.T and calls the Error (or any other error methods which we will see later) on it. This function must start with Test keyword and the latter name should start with an uppercase letter (for example, TestMultiply and not Testmultiply).
 
 import "testing"
 func TestAbc(t *testing.T) {
