@@ -44,4 +44,11 @@ Following steps define how to perform TDD test,
       - A unit test is a program that tests a unit component by all possible means and compares the result to the expected output.
       - Unit Components : functions, struct, methods,
 
-      
+```unit test sample
+
+import "testing"
+func TestAbc(t *testing.T) {
+    t.Error() // to indicate test failed
+}
+
+```      
