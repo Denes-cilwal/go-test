@@ -4,7 +4,7 @@
  - Small regression suite
      - You have test case around all code and if you change any part of 
        code and if you chnage any part of code for a new feature you will 
-       get advanced feeback incase something in code code.
+       get advanced feeback incase something in code.
 
  - Reduction in Bugs
  - Cleaner and Simple Code
