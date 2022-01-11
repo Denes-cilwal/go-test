@@ -1,0 +1,4 @@
+mode: set
+go-unit-test-demo/go-unit-test-demo/tutorial_2/hello.go:5.32,6.20 1 1
+go-unit-test-demo/go-unit-test-demo/tutorial_2/hello.go:6.20,8.3 1 1
+go-unit-test-demo/go-unit-test-demo/tutorial_2/hello.go:8.8,10.3 1 1
