@@ -22,7 +22,7 @@ func TestCheckIfPrimeTable(test *testing.T) {
 		input    int
 		expected bool
 	}{
-		{2, true},
+		{2, false},
 		{30, true},
 		{41, true},
 		{59, true},
