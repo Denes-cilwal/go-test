@@ -70,3 +70,12 @@ func TestAbc(t *testing.T) {
 - red color for failed tests,
 - (install using go get -u github.com/rakyll/gotest command).
 - Run using : go test -v -run TestHelloValidArgs | go test -v -run TestHello
+
+### Test Coverage
+
+```
+It is the measurement of how many lines of code in your package were executed when you ran your test suit (compared to total lines in your code). Go provide built-in functionality to check your code coverage.
+
+- go test -coverprofile=cover.text
+
+```
